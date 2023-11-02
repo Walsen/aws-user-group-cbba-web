@@ -1,0 +1,42 @@
+body {
+    text-align: justify;
+}
+
+h1 {
+  color: blue;
+}
+
+div {
+  width: 60%;
+}
+
+p {
+  font-size: larger;
+  /* color: red; */
+}
+
+li {
+  font-size: larger;
+}
+
+.header {
+  width: 100%;
+  background-color: blueviolet;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  /* font-size: x-large; */
+}
+
+.title {
+  text-align: center;
+  margin: auto;
+}
+
+.center {
+  /* border: 5px solid; */
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
