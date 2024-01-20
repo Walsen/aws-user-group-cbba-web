@@ -55,3 +55,9 @@ span {
   text-align: center;
   font-size: larger;
 }
+
+.admins {
+  margin: auto;
+  padding: 1px;
+  text-align: justify;
+}
